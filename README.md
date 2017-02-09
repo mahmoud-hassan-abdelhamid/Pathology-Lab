@@ -1,0 +1,1 @@
+Pathology lab management system to manage and store patients, reports, tests and results
